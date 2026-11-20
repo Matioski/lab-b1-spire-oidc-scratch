@@ -1,0 +1,7 @@
+{
+  "issuer": "https://matioski.github.io/lab-b1-spire-oidc",
+  "jwks_uri": "https://matioski.github.io/lab-b1-spire-oidc/jwks.json",
+  "response_types_supported": ["id_token"],
+  "subject_types_supported": ["public"],
+  "id_token_signing_alg_values_supported": ["ES256"]
+}
